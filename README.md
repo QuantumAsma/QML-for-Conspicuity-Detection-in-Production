@@ -32,7 +32,9 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 [task1_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task1_Codebook_Solution.ipynb )
-[Task2_Solution](  )
+
+[Task2_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task2_Variational_Classifier.ipynb )
+
 [Task3_Solution](  )
 
 ### Team Information:

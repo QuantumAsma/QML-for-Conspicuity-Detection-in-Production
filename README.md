@@ -33,7 +33,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 [task1_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task1_Codebook_Solution.ipynb )
 
-[Task2_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task2_Variational_Classifier.ipynb )
+[Task2_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task2_Variational_Classifier%20.ipynb )
 
 [Task3_Solution]( https://github.com/QuantumAsma/QML-for-Conspicuity-Detection-in-Production/blob/main/Task3_tutorial_quanvolution%20.ipynb )
 

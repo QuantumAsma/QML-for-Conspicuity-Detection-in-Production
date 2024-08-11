@@ -40,7 +40,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name:  Asma Tahar Taiba
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): E3H3GMCynoWQOlZ
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-E3H3GMCynoWQOlZ
 
 
 Team Member 2:
